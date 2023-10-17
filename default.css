@@ -1,7 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
+    margin: 20px;
+    padding: 10px;
     background-color: #f4f4f4;
 }
 
@@ -9,11 +9,7 @@ header, footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 10px;
-}
-
-main {
-    padding: 20px;
+    padding: 30px;
 }
 
 img {
